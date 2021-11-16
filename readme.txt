@@ -1,5 +1,7 @@
 DEM
 --------------------------------------------------------------
+Improving the Transferability of Adversarial Examples with Resized-Diverse-Inputs, Diversity-Ensemble and Region Fitting
+--------------------------------------------------------------
 REQUIREMENTS
 
 Python 3.5
